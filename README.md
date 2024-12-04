@@ -45,3 +45,6 @@ The code was written in Python and executed in Jupyter notebooks.
 - **Matplotlib.pyplot**: For creating static, interactive, and animated visualizations.
 - **Matplotlib.ticker.FuncFormatter**: For custom formatting of axis ticks in plots.
 - **Seaborn**: For statistical data visualization and creating
+
+# Disclaimer:
+Instacart is a real company that’s made their data available online, however customer data is fictitious and used for the purposes of Career Foundry's Data Analytics program.
