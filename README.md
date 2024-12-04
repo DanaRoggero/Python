@@ -27,9 +27,9 @@ This repository provides an in-depth exploratory analysis of Instacart's sales d
 - **02 Data**: Includes two subfolders:
   - *Original Data*: Original datasets. *(Data not uploaded to GitHub due to size limitations.)*
   - *Prepared Data*: Cleaned data ready for analysis.
-- **03 Scripts**: Python code for the analysis, executed using Jupyter notebooks.
-- **04 Analysis**: Contains the `Visualizations` subfolder with all visualizations used for exploratory analysis and explaining insights.
-- **05 Sent to Client**: Final Excel presentation.
+- **03 Scripts**: Step by Step Python code for the Analysis, executed using Jupyter notebooks.
+- **04 Analysis**: Contains the `Visualizations` subfolder with all visualizations used for exploratory analysis and Insights discovery.
+- **05 Sent to Client**: Insights discovery & recommendations - Excel presentation.
 
 ---
 
